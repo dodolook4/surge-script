@@ -16,3 +16,4 @@
 *.youku.com = server:223.5.5.5
 *.ucweb.com = server:223.5.5.5
 *.uc.cn = server:223.5.5.5
+*.mmstat.com = server:223.5.5.5
