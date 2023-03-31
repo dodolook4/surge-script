@@ -10,5 +10,5 @@ $httpClient.post({
     }else{
         $notification.post('刷新DNS成功!','执行Script脚本:'+$script.name,'');
     }
-	$done();
+	$done({data:data});
 });
