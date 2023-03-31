@@ -1,0 +1,9 @@
+#!name=alibaba
+#!desc=阿里系App
+
+[Host]
+*.taobao.com = server:223.5.5.5
+*.tmall.com = server:223.5.5.5
+*.alicdn.com = server:223.5.5.5
+*.aliyun.com = server:223.5.5.5
+*.dingtalk.com = server:223.5.5.5
