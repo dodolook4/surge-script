@@ -6,9 +6,9 @@ $httpClient.post({
 },function(error, response, data) {
     if(error){
         console.log(error);
-        $notification.post('刷新DNS失败!','执行脚本->'+$script.name,error);
+        $notification.post('刷新DNS失败!','执行Script脚本:'+$script.name,error);
     }else{
-        $notification.post('刷新DNS成功!','执行脚本->'+$script.name);
+        $notification.post('刷新DNS成功!','执行Script脚本:'+$script.name,'');
     }
 	$done();
 });
