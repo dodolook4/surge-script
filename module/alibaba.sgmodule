@@ -17,4 +17,6 @@
 *.ucweb.com = server:223.5.5.5
 *.uc.cn = server:223.5.5.5
 *.mmstat.com = server:223.5.5.5
-*.launchdarkly.com = server:223.5.5.5
+
+[Rule]
+DOMAIN-SUFFIX,launchdarkly.com,DIRECT
