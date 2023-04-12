@@ -1,0 +1,7 @@
+#!name=my.upear
+#!desc=开启个性化设置
+
+[General]
+dns-server = 119.29.29.29, 114.114.114.114, system
+encrypted-dns-server = https://dns.alidns.com/dns-query
+allow-hotspot-access = true
