@@ -1,0 +1,5 @@
+#!name=mac_rule
+#!desc=Mac特殊规则
+
+[Rule]
+DOMAIN-SUFFIX,paragon-software.com,DIRECT
