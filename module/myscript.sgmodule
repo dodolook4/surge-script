@@ -1,5 +1,0 @@
-#!name=my.script
-#!desc=自定义脚本
-
-[Script]
-script_dns = control-api=1,script-path=https://raw.githubusercontent.com/dodolook4/surge-script/master/script/dns.js

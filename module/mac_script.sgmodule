@@ -1,6 +1,0 @@
-#!name=MacRules
-#!desc=Mac特殊规则
-
-[Rule]
-DOMAIN-SUFFIX,paragon-software.com,DIRECT
-DOMAIN-SUFFIX,parallels.com,DIRECT
