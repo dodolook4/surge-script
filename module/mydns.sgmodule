@@ -7,4 +7,4 @@ use-local-host-item-for-proxy = true
 doh-follow-outbound-mode=true
 
 [Rule]
-DOMAIN-SUFFIX,gstatic.com,Prox
+DOMAIN-SUFFIX,gstatic.com,Proxy
