@@ -1,8 +1,8 @@
-#!name=mydns
-#!desc=处理Surge DNS
+#!name=my-ios
+#!desc=iOS Surge DNS
 
 [General]
-dns-server = 114.114.114.114,119.29.29.29,223.5.5.5,8.8.8.8
+dns-server = system,114.114.114.114,119.29.29.29
 use-local-host-item-for-proxy = true
 doh-follow-outbound-mode=true
 
