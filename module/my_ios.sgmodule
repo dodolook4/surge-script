@@ -2,7 +2,7 @@
 #!desc=iOS Surge DNS
 
 [General]
-dns-server = system,119.29.29.29,114.114.114.114
+dns-server = 119.29.29.29,114.114.114.114
 use-local-host-item-for-proxy = true
 doh-follow-outbound-mode=true
 allow-hotspot-access = true
