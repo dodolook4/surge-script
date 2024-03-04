@@ -9,6 +9,7 @@ DOMAIN,dl.google.com,Proxy
 IP-CIDR,58.254.137.225/24,Proxy,no-resolve
 
 PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat,DIRECT
+PROCESS-NAME,wechat*,DIRECT
 PROCESS-NAME,WeType,DIRECT
 PROCESS-NAME,/Applications/QQ-NT.app/Contents/MacOS/QQ-NT,DIRECT
 PROCESS-NAME,QQ-NT*,DIRECT
