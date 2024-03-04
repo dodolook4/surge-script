@@ -14,5 +14,9 @@ PROCESS-NAME,/Applications/QQ-NT.app/Contents/MacOS/QQ-NT,DIRECT
 PROCESS-NAME,QQ-NT*,DIRECT
 PROCESS-NAME,/Applications/DingTalk.app/Contents/MacOS/DingTalk,DIRECT
 PROCESS-NAME,/Applications/aDrive.app/Contents/MacOS/aDrive,DIRECT
+PROCESS-NAME,aDrive*,DIRECT
 PROCESS-NAME,/Applications/AliyunGWSApp.app/Contents/MacOS/AliyunGWSApp,DIRECT
 PROCESS-NAME,/Applications/云之家.app/Contents/MacOS/云之家,DIRECT
+PROCESS-NAME,/Applications/Citrix Workspace.app/Contents/MacOS/Citrix Workspace,DIRECT
+PROCESS-NAME,Citrix*,DIRECT
+PROCESS-NAME,/Applications/Android Studio.app/Contents/MacOS/studio,Proxy
