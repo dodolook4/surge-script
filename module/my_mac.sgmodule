@@ -8,10 +8,10 @@ DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN,dl.google.com,Proxy
 IP-CIDR,58.254.137.225/24,Proxy,no-resolve
 
-PROCESS-NAME,WeChat,DIRECT
+PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat,DIRECT
 PROCESS-NAME,WeType,DIRECT
-PROCESS-NAME,QQ-NT,DIRECT
-PROCESS-NAME,DingTalk,DIRECT
-PROCESS-NAME,aDrive,DIRECT
-PROCESS-NAME,AliyunGWSApp,DIRECT
-PROCESS-NAME,云之家,DIRECT
+PROCESS-NAME,/Applications/QQ-NT.app/Contents/MacOS/QQ-NT,DIRECT
+PROCESS-NAME,/Applications/DingTalk.app/Contents/MacOS/DingTalk,DIRECT
+PROCESS-NAME,/Applications/aDrive.app/Contents/MacOS/aDrive,DIRECT
+PROCESS-NAME,/Applications/AliyunGWSApp.app/Contents/MacOS/AliyunGWSApp,DIRECT
+PROCESS-NAME,/Applications/云之家.app/Contents/MacOS/云之家,DIRECT
