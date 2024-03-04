@@ -4,6 +4,10 @@
 [General]
 
 [Rule]
+DOMAIN-SUFFIX,gstatic.com,Proxy
+DOMAIN,dl.google.com,Proxy
+IP-CIDR,58.254.137.225/24,Proxy,no-resolve
+
 PROCESS-NAME,WeChat,DIRECT
 PROCESS-NAME,WeType,DIRECT
 PROCESS-NAME,QQ-NT,DIRECT
