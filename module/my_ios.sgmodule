@@ -1,8 +1,7 @@
 #!name=my-ios
-#!desc=iOS Surge DNS
+#!desc=Surge iOS
 
 [General]
-dns-server = 119.29.29.29,114.114.114.114
 doh-follow-outbound-mode=true
 allow-hotspot-access = true
 
