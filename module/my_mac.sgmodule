@@ -16,6 +16,3 @@ PROCESS-NAME,/Applications/DingTalk.app/Contents/MacOS/DingTalk,DIRECT
 PROCESS-NAME,/Applications/aDrive.app/Contents/MacOS/aDrive,DIRECT
 PROCESS-NAME,/Applications/AliyunGWSApp.app/Contents/MacOS/AliyunGWSApp,DIRECT
 PROCESS-NAME,/Applications/云之家.app/Contents/MacOS/云之家,DIRECT
-
-[SSID Setting]
-"Kill Apple" cellular-mode=true
