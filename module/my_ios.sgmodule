@@ -12,9 +12,3 @@ IP-CIDR,58.254.137.225/24,Proxy,no-resolve
 HOST, maplocatesdksnapshot.d.meituan.net, REJECT
 HOST, metrics-picture.d.meituan.net, REJECT
 IP-CIDR, 103.37.155.60/32, REJECT
-
-[URL Rewrite]
-^http(s)?:\/\/(.*).d.meituan.net http$1://$2.dreport.meituan.net 302
-
-[Host]
-*.meituan.net=server:system
