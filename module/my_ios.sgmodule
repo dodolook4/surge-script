@@ -10,3 +10,6 @@ external-controller-access = surgepasswd@0.0.0.0:6677
 DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN,dl.google.com,Proxy
 IP-CIDR,58.254.137.225/24,Proxy,no-resolve
+
+[Host]
+*.meituan.net=server:system 
