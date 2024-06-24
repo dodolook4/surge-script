@@ -2,9 +2,7 @@
 #!desc=Surge iOS
 
 [General]
-doh-follow-outbound-mode=true
 allow-hotspot-access = true
-external-controller-access = surgepasswd@0.0.0.0:6677
 
 [Rule]
 DOMAIN-SUFFIX,gstatic.com,Proxy
