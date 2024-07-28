@@ -4,3 +4,8 @@
 [General]
 ipv6 = true
 ipv6-vif = auto
+
+[Rule]
+DOMAIN-SUFFIX,gstatic.com,Proxy
+DOMAIN,dl.google.com,Proxy
+IP-CIDR,58.254.137.225/24,Proxy,no-resolve
