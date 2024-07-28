@@ -1,6 +1,7 @@
-#!name=my-ios
-#!desc=Surge iOS
+#!name=my-tv
+#!desc=Surge TV
 
 [General]
+ipv6 = true
 ipv6-vif = auto
 allow-hotspot-access = true
