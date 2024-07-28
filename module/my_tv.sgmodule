@@ -1,0 +1,3 @@
+compatibility-mode = 3
+ipv6-vif = auto
+allow-hotspot-access = true
