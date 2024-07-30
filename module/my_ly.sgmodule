@@ -1,5 +1,5 @@
 #!name=my-ly
 #!desc=Suge 鹭燕
 
-[General]
-dns-server = 119.29.29.29, 114.114.114.114, system
+[SSID Setting]
+SSID:XMLY-Office 119.29.29.29, 114.114.114.114, system
