@@ -2,6 +2,7 @@
 #!desc=Suge MacOS
 
 [General]
+dns-server = 223.5.5.5,119.29.29.29,114.114.114.114
 
 [Rule]
 DOMAIN-SUFFIX,gstatic.com,Proxy
@@ -9,7 +10,6 @@ DOMAIN-SUFFIX,openmedia.co,Proxy
 DOMAIN,dl.google.com,Proxy
 IP-CIDR,58.254.137.225/24,Proxy,no-resolve
 
-PROCESS-NAME,/Applications/4K Stogram.app/Contents/MacOS/4kstogram,Proxy
 PROCESS-NAME,/Applications/WeChat.app/Contents/MacOS/WeChat,DIRECT
 PROCESS-NAME,wechat*,DIRECT
 PROCESS-NAME,WeType,DIRECT
