@@ -24,3 +24,7 @@ PROCESS-NAME,云之家*,DIRECT
 PROCESS-NAME,/Applications/Citrix Workspace.app/Contents/MacOS/Citrix Workspace,DIRECT
 PROCESS-NAME,Citrix*,DIRECT
 PROCESS-NAME,/Applications/Android Studio.app/Contents/MacOS/studio,Proxy
+
+
+[SSID Setting]
+SSID:siery_super 223.5.5.5,119.29.29.29, 114.114.114.114, system
