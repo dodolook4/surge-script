@@ -1,8 +1,6 @@
 #!name=my-mac
 #!desc=Suge MacOS
 
-[General]
-
 [Rule]
 DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN-SUFFIX,openmedia.co,Proxy
