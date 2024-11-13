@@ -6,6 +6,7 @@
 [Rule]
 DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN-SUFFIX,openmedia.co,Proxy
+DOMAIN-SUFFIX,nacos.io,Proxy
 DOMAIN,dl.google.com,Proxy
 IP-CIDR,58.254.137.225/24,Proxy,no-resolve
 
