@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,openmedia.co,Proxy
 DOMAIN-SUFFIX,4kdownload.com,Proxy
 DOMAIN-SUFFIX,nacos.io,Proxy
 DOMAIN,dl.google.com,Proxy
+SRC-IP,10.211.55.7,Proxy
