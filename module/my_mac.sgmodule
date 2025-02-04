@@ -2,9 +2,9 @@
 #!desc=Suge MacOS
 
 [Rule]
-DOMAIN-SUFFIX,gstatic.com,Proxy
+SRC-IP,10.211.55.7,Proxy
 DOMAIN-SUFFIX,openmedia.co,Proxy
 DOMAIN-SUFFIX,4kdownload.com,Proxy
 DOMAIN-SUFFIX,nacos.io,Proxy
+DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN,dl.google.com,Proxy
-SRC-IP,10.211.55.7,Proxy
