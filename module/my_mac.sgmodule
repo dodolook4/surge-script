@@ -4,5 +4,6 @@
 [Rule]
 DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN-SUFFIX,openmedia.co,Proxy
+DOMAIN-SUFFIX,4kdownload.com,Proxy
 DOMAIN-SUFFIX,nacos.io,Proxy
 DOMAIN,dl.google.com,Proxy
