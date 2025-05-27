@@ -3,7 +3,7 @@
 
 [Rule]
 PROCESS-NAME,"/Applications/4K Stogram.app/Contents/MacOS/4kstogram",Proxy
-PROCESS-NAME,"/Applications/夸克网盘.app/Contents/MacOS/夸克网盘",Direct
-PROCESS-NAME,"/Applications/夸克网盘.app/Contents/Frameworks/夸克网盘 Helper.app/Contents/MacOS/夸克网盘 Helper",Direct
-PROCESS-NAME,"/Applications/aDrive.app/Contents/MacOS/aDrive",Direct
-PROCESS-NAME,"/Applications/aDrive.app/Contents/Frameworks/aDrive Helper.app/Contents/MacOS/aDrive Helper",Direct
+PROCESS-NAME,"/Applications/夸克网盘.app/Contents/MacOS/夸克网盘",DIRECT
+PROCESS-NAME,"/Applications/夸克网盘.app/Contents/Frameworks/夸克网盘 Helper.app/Contents/MacOS/夸克网盘 Helper",DIRECT
+PROCESS-NAME,"/Applications/aDrive.app/Contents/MacOS/aDrive",DIRECT
+PROCESS-NAME,"/Applications/aDrive.app/Contents/Frameworks/aDrive Helper.app/Contents/MacOS/aDrive Helper",DIRECT
