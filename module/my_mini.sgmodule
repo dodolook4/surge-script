@@ -1,5 +1,7 @@
 #!name=my-mini
 #!desc=Suge Mac Mini
+[General]
+always-real-ip = txbox_smb
 
 [Rule]
 PROCESS-NAME,"/Applications/4K Stogram.app/Contents/MacOS/4kstogram",Proxy
