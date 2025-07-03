@@ -1,10 +1,13 @@
 #!name=my-mac
-#!desc=Suge MacOS
+#!desc=Surge Mac
+[General]
+always-real-ip = txbox_smb
 
 [Rule]
-SRC-IP,10.211.55.7,Proxy
-DOMAIN-SUFFIX,openmedia.co,Proxy
-DOMAIN-SUFFIX,4kdownload.com,Proxy
-DOMAIN-SUFFIX,nacos.io,Proxy
-DOMAIN-SUFFIX,gstatic.com,Proxy
-DOMAIN,dl.google.com,Proxy
+PROCESS-NAME,"/Applications/4K Stogram.app/Contents/MacOS/4kstogram",Proxy
+PROCESS-NAME,"/Applications/夸克网盘.app/Contents/MacOS/夸克网盘",DIRECT
+PROCESS-NAME,"/Applications/夸克网盘.app/Contents/Frameworks/夸克网盘 Helper.app/Contents/MacOS/夸克网盘 Helper",DIRECT
+PROCESS-NAME,"/Applications/aDrive.app/Contents/MacOS/aDrive",DIRECT
+PROCESS-NAME,"/Applications/aDrive.app/Contents/Frameworks/aDrive Helper.app/Contents/MacOS/aDrive Helper",DIRECT
+PROCESS-NAME,"/Applications/Thunder.app/Contents/MacOS/Thunder",DIRECT
+PROCESS-NAME,"/Applications/Thunder.app/Contents/XPCServices/DownloadService.xpc/Contents/MacOS/DownloadService",DIRECT
