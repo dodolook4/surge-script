@@ -1,5 +1,6 @@
 #!name=my-mini
 #!desc=Surge Mac Mini
+
 [General]
 always-real-ip = txbox_smb
 
