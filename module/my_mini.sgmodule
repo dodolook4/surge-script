@@ -2,8 +2,6 @@
 #!desc=Surge Mac Mini
 [General]
 always-real-ip = txbox_smb
-[Host]
-nas.mini = 10.0.0.60
 
 [Rule]
 PROCESS-NAME,"/Applications/4K Stogram.app/Contents/MacOS/4kstogram",Proxy
