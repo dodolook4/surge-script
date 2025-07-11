@@ -11,3 +11,4 @@ PROCESS-NAME,"/Applications/aDrive.app/Contents/MacOS/aDrive",DIRECT
 PROCESS-NAME,"/Applications/aDrive.app/Contents/Frameworks/aDrive Helper.app/Contents/MacOS/aDrive Helper",DIRECT
 PROCESS-NAME,"/Applications/Thunder.app/Contents/MacOS/Thunder",DIRECT
 PROCESS-NAME,"/Applications/Thunder.app/Contents/XPCServices/DownloadService.xpc/Contents/MacOS/DownloadService",DIRECT
+PROCESS-NAME,"/Applications/SunloginClient.app",DIRECT
