@@ -3,12 +3,8 @@
 
 [General]
 allow-hotspot-access = true
+skip-proxy = localhost, *.local, injections.adguard.org, local.adguard.org, captive.apple.com, guzzoni.apple.com, 0.0.0.0/8, 10.0.0.0/8, 17.0.0.0/8, 100.64.0.0/10, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.168.0.0/16, 192.88.99.0/24, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 240.0.0.0/4, 255.255.255.255/32,mi.com, *.mi.com, xiaomi.net, *.xiaomi.net, xiaomi.com, *.xiaomi.com, xiaomiyoupin.com, *.xiaomiyoupin.commijia.tech, *.mijia.tech, miot-spec.org, *.miot-spec.org, miui.com, *.miui.com
+always-real-ip = mi.com, *.mi.com, xiaomi.net, *.xiaomi.net, xiaomi.com, *.xiaomi.com, xiaomiyoupin.com, *.xiaomiyoupin.commijia.tech, *.mijia.tech, miot-spec.org, *.miot-spec.org, miui.com, *.miui.com
 
 [Rule]
-DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN,dl.google.com,Proxy
-IP-CIDR,58.254.137.225/24,Proxy,no-resolve
-
-HOST, maplocatesdksnapshot.d.meituan.net, REJECT
-HOST, metrics-picture.d.meituan.net, REJECT
-IP-CIDR, 103.37.155.60/32, REJECT
